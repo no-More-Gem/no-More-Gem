@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- <!--START_SECTION:activity-->
+  START_SECTION:activity
 
 <!---
 no-More-Gem/no-More-Gem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
