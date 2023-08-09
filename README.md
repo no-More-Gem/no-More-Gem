@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+ <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
 
-  START_SECTION:activity
-
-<!---
-no-More-Gem/no-More-Gem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--END_SECTION:activity-->
